@@ -43,8 +43,9 @@ This is an example how you can upload the response to a web backend, from comman
 
 You can find further information in the files in the [doc](doc) folder.
 
-## Related Projects
+## Related Resources
 
+- [MODBUS APPLICATION PROTOCOL SPECIFICATION V1.1b](https://www.modbus.org/docs/Modbus_Application_Protocol_V1_1b.pdf)
 - https://github.com/kbialek/deye-inverter-mqtt
 - https://github.com/StephanJoubert/home_assistant_solarman
 - https://github.com/jlopez77/DeyeInverter.git
