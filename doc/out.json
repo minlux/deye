@@ -1,0 +1,48 @@
+{
+	"ac": {
+	  "current": 0.1,
+	  "day_energy": 0.0,
+	  "frequency": 50.0,
+	  "power": 32,
+	  "total_energy": 220.10000000000002,
+	  "voltage": 235.0
+	},
+	"pv": [
+	  {
+		 "current": 0.5,
+		 "day_energy": 0.0,
+		 "power": 13.5,
+		 "total_energy": 112.2,
+		 "voltage": 27.0
+	  },
+	  {
+		 "current": 0.5,
+		 "day_energy": 0.0,
+		 "power": 13.55,
+		 "total_energy": 101.4,
+		 "voltage": 27.1
+	  },
+	  {
+		 "current": 0.0,
+		 "day_energy": 0.0,
+		 "power": 0.0,
+		 "total_energy": 0.0,
+		 "voltage": 0.0
+	  },
+	  {
+		 "current": 0.0,
+		 "day_energy": 0.0,
+		 "power": 0.0,
+		 "total_energy": 0.0,
+		 "voltage": 0.0
+	  }
+	],
+	"radiator_temperature": 21.1,
+	"sn": 3942535924,
+	"status": 4,
+	"total_optime": {
+	  "dhms": "47 Days, 6 Hours, 54 Minutes, 2 Seconds",
+	  "seconds": 4085642
+	},
+	"uptime": "02:53:36"
+}
